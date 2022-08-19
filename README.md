@@ -12,5 +12,12 @@ Time estimate
  About me page
 estimate of time needed: 30 minutes
 start time: 1450
-finish time:  
+finish time: 1518 
+actual time: 28 minutes  
+
+Time estimate  
+Projects section
+estimate of time needed: 40 minutes
+start time: 1520
+finish time: 
 actual time: 
