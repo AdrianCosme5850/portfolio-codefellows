@@ -16,8 +16,15 @@ finish time: 1518
 actual time: 28 minutes  
 
 Time estimate  
-Projects section
-estimate of time needed: 40 minutes
+Projects section and experience
+estimate of time needed: 60 minutes
 start time: 1520
+finish time: 1620
+actual time: 60 minutes  
+
+Time estimate  
+Personalize
+estimate of time needed: 30 minutes
+start time: 1630
 finish time: 
 actual time: 
